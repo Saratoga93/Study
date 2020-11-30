@@ -26,7 +26,18 @@ E-R 다이어그램(E-R:개체-관계, Entity-Relation)
  개체와 개체가 맺고 있는 의미 있는 연관성을 나타냄
  마름모로 표현
  예시)학생이 과목을 수강 신청한다.
- 1:1 관게, 1:N 관계 Etc...
- 
- 
- 
+ 1:1 관게, 1:N 관계 M:N관계 Etc...
+
+과제: Draw.io 들어가서 사진 찍어둔 것대로 하나 만들기(포켓몬 도감번호)
+
+
+데이터베이스의 기본연산
+ CRUD
+   Creat, Read, Update, Delete의 약자
+   SQL 언어에서의 CRUD
+    Insert, Select, Update, Delete
+    SQL
+      관게형 데이터베이스의 데이터 조작을 하기위한 언어
+      국제표준으로 제정된 SQL이 있음
+      Oracle, MS-SQL, MySQL에 따라서 SQL 문법이 조금씩 다름
+     직접 CRUD 연산을 하고, 해당 과정을 캡처하시오.
