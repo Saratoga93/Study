@@ -1,0 +1,21 @@
+Switch (제어문)
+
+  Switch(값 or 수식) {
+    case 값:
+      실행문1;
+      break;
+    case 값:
+      실행문2;
+      break;
+      .
+      .
+      .
+      .
+      .
+      default: //생략가능
+      break;
+  }
+  
+  // %d : 정수
+  // %s : 문자열
+  // \n : 뉴라인, \t : 탭키 삽입
